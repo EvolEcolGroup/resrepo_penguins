@@ -35,3 +35,5 @@ code/*.rdx
 .Rproj.user
 .DS_Store
 versions
+data/raw
+data/intermediate
